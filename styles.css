@@ -48,6 +48,7 @@ body {
 
 .calendar {
     border: black 2px solid;
+    overflow-x: hidden;
 }
 
 .bottom img {
